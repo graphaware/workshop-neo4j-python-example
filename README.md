@@ -1,5 +1,5 @@
 # workshop-neo4j-python-example
-##Requirements
+## Requirements
 This project has been testes with python version 3.7.x.
 
 In order to check your python version, run one of the following commands:
@@ -17,7 +17,7 @@ $ python3 --version
 In the rest of the Readme.md we will use the python3 case since it is the most common scenario and it works in any case 
 (even though you have multiple python versions installed) 
  
-##Virtual Environment Creation
+## Virtual Environment Creation
 
 Personally, I prefer to run always in a virtual environment. 
 In this way all the dependencies will be installed here and everything will be more controlled. 
@@ -41,7 +41,7 @@ That's why from now on, calling python or python3 will be exactly the same.
 
 If you are using an IDE, such as Pycharm, remember to configure it to use the created virtual environment.  
 
-##Install Dependencies
+## Install Dependencies
 With the virtual environment activated, go in the scripts directory and run:
 
 `
